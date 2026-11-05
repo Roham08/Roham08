@@ -16,6 +16,6 @@ Based in Karaj, Iran · 4+ years in networking and infrastructure.
 
 <img src="assets/title-contact.svg" width="100%" alt="Contact" />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="assets/btn-linkedin.svg" height="64" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/rohamhosseini2002"><img src="assets/btn-linkedin.svg" height="64" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="64" alt="Email" /></a>
+<a href="mailto:id.rohamhosseini@gmail.com"><img src="assets/btn-email.svg" height="64" alt="Email" /></a>
