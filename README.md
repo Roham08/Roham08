@@ -2,9 +2,6 @@
 
 <img src="assets/header.svg" width="100%" alt="Roham Hosseini — Infrastructure Specialist at Milli Gold" />
 
-I build, secure and monitor the infrastructure everything else runs on: networks, servers, virtualization and the monitoring around them.
-Based in Karaj, Iran · 4+ years in networking and infrastructure.
-
 <img src="assets/title-skills.svg" width="100%" alt="Skills" />
 <img src="assets/skills.svg" width="100%" alt="Networking: MikroTik, Cisco, VLANs, routing, switching, firewalls, SSH hardening. Systems: VMware ESXi, vCenter, Windows Server, Active Directory, DNS, DHCP, Linux, VoIP, backups. Monitoring and data: PRTG, Grafana, ELK, PingPlotter, HAProxy, Microsoft SQL Server." />
 
