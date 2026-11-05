@@ -1,12 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="46" viewBox="0 0 1000 46" fill="none" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="110" viewBox="0 0 1000 110" fill="none" role="img">
 <defs></defs>
-<rect width="1000" height="46" fill="#000000"/>
-
-<text x="20" y="26" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="14" font-weight="bold" fill="#ffffff" letter-spacing="6" opacity="0">CONTACT
-  <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-</text>
-<rect x="0" y="38" width="1000" height="1" fill="#2a2a2a"/>
-<rect x="20" y="37" width="0" height="2" fill="#ffffff">
-  <animate attributeName="width" values="0;48" dur="0.8s" begin="0.3s" fill="freeze"/>
-</rect>
+<rect width="1000" height="110" fill="#000000"/>
+<rect x="0.5" y="0.5" width="999" height="109" rx="8" stroke="#ffffff" stroke-opacity="0.35"/><line x1="0" y1="40" x2="1000" y2="40" stroke="#2a2a2a"/><circle cx="24" cy="20" r="5" stroke="#ffffff" stroke-opacity="0.6"/><circle cx="42" cy="20" r="5" stroke="#ffffff" stroke-opacity="0.6"/><circle cx="60" cy="20" r="5" fill="#ffffff" fill-opacity="0.85"/><text x="500.0" y="24" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a">roham@infra: ~/contact</text><clipPath id="t9"><rect x="28" y="60.4" height="24.0" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0;0.0187;0.075;0.9;0.9188;1.0" values="0;0;172.8;172.8;0;0"/></rect></clipPath><text x="28" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="16" font-weight="bold" fill="#ffffff" textLength="172.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#t9)">$ ./contact --open</text><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0.0;0.0181;0.0187;0.1437;0.1444;1.0" values="0;0;1;1;0;0"/><rect x="28" y="62.4" width="8.8" height="18.4" fill="#ffffff"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0.0;0.0187;0.075;0.9;0.9188;1.0" values="28.0;28.0;200.8;200.8;28.0;28.0"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/></rect></g>
 </svg>
