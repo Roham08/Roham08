@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="56" viewBox="0 0 1000 56" fill="none" role="img">
+<defs></defs>
+<rect width="1000" height="56" fill="#000000"/>
+<clipPath id="c18"><rect x="8" y="7.199999999999996" height="42.0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" keyTimes="0.0;0.0222;0.1111;0.8333;0.8667;1.0" values="0;0;151.2;151.2;0;0"/></rect></clipPath><text x="8" y="38" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="28" font-weight="bold" fill="#ffffff" textLength="151.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c18)">&gt; contact</text><rect x="8" y="9.199999999999996" width="15.4" height="32.2" fill="#ffffff"><animate attributeName="x" dur="9.0s" repeatCount="indefinite" keyTimes="0.0;0.0222;0.1111;0.8333;0.8667;1.0" values="8;8;159.2;159.2;8;8"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/></rect>
+<rect x="0" y="53" width="1000" height="1" fill="#2a2a2a"/>
+<rect x="0" y="53" width="80" height="1.5" fill="#ffffff">
+  <animate attributeName="x" values="-80;1000" dur="4s" repeatCount="indefinite"/>
+</rect>
+</svg>

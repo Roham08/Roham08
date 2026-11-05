@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="24" viewBox="0 0 1000 24" fill="none" role="img">
+<defs></defs>
+<rect width="1000" height="24" fill="#000000"/>
+
+<line x1="0" y1="12" x2="1000" y2="12" stroke="#2a2a2a" stroke-width="1"/>
+<line x1="0" y1="12" x2="1000" y2="12" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="40 960">
+  <animate attributeName="stroke-dashoffset" values="40;-960" dur="5s" repeatCount="indefinite"/>
+</line>
+<rect x="496" y="8" width="8" height="8" fill="#ffffff" transform="rotate(45 500 12)">
+  <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+</rect>
+
+</svg>

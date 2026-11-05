@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img">
+<defs></defs>
+<rect width="1000" height="150" fill="#000000"/>
+
+<rect x="35.0" y="30" width="170" height="90" rx="8" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="520" stroke-dashoffset="520">
+  <animate attributeName="stroke-dashoffset" values="520;0;0;520" keyTimes="0;0.2;0.85;1" dur="9s" begin="0.0s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.3;0.85;1" dur="9s" begin="0.0s" repeatCount="indefinite"/>
+  <text x="120.0" y="76" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="24" font-weight="800" fill="#ffffff">CCNA</text>
+  <text x="120.0" y="100" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="2">CISCO</text>
+</g>
+<rect x="35.0" y="30" width="170" height="90" rx="8" fill="#ffffff" opacity="0">
+  <animate attributeName="opacity" values="0;0;0.14;0" keyTimes="0;0.3;0.38;0.5" dur="9s" begin="0.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="225.0" y="30" width="170" height="90" rx="8" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="520" stroke-dashoffset="520">
+  <animate attributeName="stroke-dashoffset" values="520;0;0;520" keyTimes="0;0.2;0.85;1" dur="9s" begin="0.35s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.3;0.85;1" dur="9s" begin="0.35s" repeatCount="indefinite"/>
+  <text x="310.0" y="76" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="24" font-weight="800" fill="#ffffff">MTCNA</text>
+  <text x="310.0" y="100" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="2">MIKROTIK</text>
+</g>
+<rect x="225.0" y="30" width="170" height="90" rx="8" fill="#ffffff" opacity="0">
+  <animate attributeName="opacity" values="0;0;0.14;0" keyTimes="0;0.3;0.38;0.5" dur="9s" begin="0.35s" repeatCount="indefinite"/>
+</rect>
+<rect x="415.0" y="30" width="170" height="90" rx="8" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="520" stroke-dashoffset="520">
+  <animate attributeName="stroke-dashoffset" values="520;0;0;520" keyTimes="0;0.2;0.85;1" dur="9s" begin="0.7s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.3;0.85;1" dur="9s" begin="0.7s" repeatCount="indefinite"/>
+  <text x="500.0" y="76" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="24" font-weight="800" fill="#ffffff">MCSA</text>
+  <text x="500.0" y="100" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="2">MICROSOFT</text>
+</g>
+<rect x="415.0" y="30" width="170" height="90" rx="8" fill="#ffffff" opacity="0">
+  <animate attributeName="opacity" values="0;0;0.14;0" keyTimes="0;0.3;0.38;0.5" dur="9s" begin="0.7s" repeatCount="indefinite"/>
+</rect>
+<rect x="605.0" y="30" width="170" height="90" rx="8" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="520" stroke-dashoffset="520">
+  <animate attributeName="stroke-dashoffset" values="520;0;0;520" keyTimes="0;0.2;0.85;1" dur="9s" begin="1.0499999999999998s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.3;0.85;1" dur="9s" begin="1.0499999999999998s" repeatCount="indefinite"/>
+  <text x="690.0" y="76" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="24" font-weight="800" fill="#ffffff">LPIC-1</text>
+  <text x="690.0" y="100" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="2">LINUX</text>
+</g>
+<rect x="605.0" y="30" width="170" height="90" rx="8" fill="#ffffff" opacity="0">
+  <animate attributeName="opacity" values="0;0;0.14;0" keyTimes="0;0.3;0.38;0.5" dur="9s" begin="1.0499999999999998s" repeatCount="indefinite"/>
+</rect>
+<rect x="795.0" y="30" width="170" height="90" rx="8" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="520" stroke-dashoffset="520">
+  <animate attributeName="stroke-dashoffset" values="520;0;0;520" keyTimes="0;0.2;0.85;1" dur="9s" begin="1.4s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.3;0.85;1" dur="9s" begin="1.4s" repeatCount="indefinite"/>
+  <text x="880.0" y="76" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="24" font-weight="800" fill="#ffffff">NETWORK+</text>
+  <text x="880.0" y="100" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="2">COMPTIA</text>
+</g>
+<rect x="795.0" y="30" width="170" height="90" rx="8" fill="#ffffff" opacity="0">
+  <animate attributeName="opacity" values="0;0;0.14;0" keyTimes="0;0.3;0.38;0.5" dur="9s" begin="1.4s" repeatCount="indefinite"/>
+</rect>
+</svg>

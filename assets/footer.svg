@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img">
+<defs></defs>
+<rect width="1000" height="150" fill="#000000"/>
+
+<path d="M0,70 H180 l10,-8 l10,8 H300 l8,0 l8,-45 l12,80 l8,-35 H520 l10,-8 l10,8 H640 l8,0 l8,-45 l12,80 l8,-35 H1000" stroke="#2a2a2a" stroke-width="2"/>
+<path d="M0,70 H180 l10,-8 l10,8 H300 l8,0 l8,-45 l12,80 l8,-35 H520 l10,-8 l10,8 H640 l8,0 l8,-45 l12,80 l8,-35 H1000" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="140 1400" stroke-linecap="round">
+  <animate attributeName="stroke-dashoffset" values="140;-1400" dur="4s" repeatCount="indefinite"/>
+</path>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="13" fill="#8a8a8a" text-anchor="middle"><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=1 ttl=64 time=0.3 ms<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0;0.0167;0.15;0.1667;1.0" dur="9s" repeatCount="indefinite"/></text><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=2 ttl=64 time=0.4 ms<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.1667;0.1833;0.3167;0.3333;1.0" dur="9s" repeatCount="indefinite"/></text><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=3 ttl=64 time=0.5 ms<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.3333;0.35;0.4833;0.5;1.0" dur="9s" repeatCount="indefinite"/></text><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=4 ttl=64 time=0.6 ms<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.5;0.5167;0.65;0.6667;1.0" dur="9s" repeatCount="indefinite"/></text><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=5 ttl=64 time=0.7 ms<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.6667;0.6833;0.8167;0.8333;1.0" dur="9s" repeatCount="indefinite"/></text><text x="500" y="128" opacity="0">64 bytes from roham: icmp_seq=6 ttl=64 time=0.8 ms<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.0;0.8333;0.85;0.9833;1.0" dur="9s" repeatCount="indefinite"/></text></g>
+</svg>
